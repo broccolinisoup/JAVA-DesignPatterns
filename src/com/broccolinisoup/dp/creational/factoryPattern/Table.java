@@ -1,4 +1,4 @@
-package com.broccolinisoup.dp.factoryPattern;
+package com.broccolinisoup.dp.creational.factoryPattern;
 
 public class Table extends Furniture{
 

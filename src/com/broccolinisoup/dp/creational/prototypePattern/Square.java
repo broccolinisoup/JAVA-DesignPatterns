@@ -1,6 +1,11 @@
-package com.broccolinisoup.dp.abstractFactoryPattern;
+package com.broccolinisoup.dp.creational.prototypePattern;
 
 public class Square extends Shape{
+	
+	public  Square() {
+		type = "Square";
+	
+	}
 
 	@Override
 	public void draw() {

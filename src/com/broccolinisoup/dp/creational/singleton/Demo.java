@@ -1,4 +1,4 @@
-package com.broccolinisoup.dp.singleton;
+package com.broccolinisoup.dp.creational.singleton;
 
 public class Demo {
 	

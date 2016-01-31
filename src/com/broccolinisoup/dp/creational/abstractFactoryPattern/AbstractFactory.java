@@ -1,4 +1,4 @@
-package com.broccolinisoup.dp.abstractFactoryPattern;
+package com.broccolinisoup.dp.creational.abstractFactoryPattern;
 
 //Create an Abstract class to get factories for Color and Shape Objects.
 

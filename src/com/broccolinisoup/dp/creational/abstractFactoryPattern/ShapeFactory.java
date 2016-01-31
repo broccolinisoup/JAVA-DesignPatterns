@@ -1,4 +1,4 @@
-package com.broccolinisoup.dp.abstractFactoryPattern;
+package com.broccolinisoup.dp.creational.abstractFactoryPattern;
 
 public class ShapeFactory extends AbstractFactory {
 

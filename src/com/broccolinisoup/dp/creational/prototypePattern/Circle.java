@@ -1,6 +1,10 @@
-package com.broccolinisoup.dp.abstractFactoryPattern;
+package com.broccolinisoup.dp.creational.prototypePattern;
 
 public class Circle extends Shape{
+	
+	public Circle(){
+		type = "Circle";
+	}
 
 	@Override
 	public void draw() {

@@ -1,6 +1,10 @@
-package com.broccolinisoup.dp.abstractFactoryPattern;
+package com.broccolinisoup.dp.creational.prototypePattern;
 
 public class Rectangle extends Shape{
+	
+	public Rectangle() {
+		type = "Rectangle";
+	}
 
 	@Override
 	public void draw() {

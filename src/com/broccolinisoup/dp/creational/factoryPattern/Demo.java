@@ -1,6 +1,6 @@
-package com.broccolinisoup.dp.factoryPattern;
+package com.broccolinisoup.dp.creational.factoryPattern;
 
-import com.broccolinisoup.dp.factoryPattern.FurnitureFactory.TypesOfFurniture;
+import com.broccolinisoup.dp.creational.factoryPattern.FurnitureFactory.TypesOfFurniture;
 
 public class Demo {
 
